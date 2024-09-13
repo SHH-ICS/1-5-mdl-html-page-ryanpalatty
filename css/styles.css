@@ -4,3 +4,18 @@
   background: #000;
   opacity: 0.001;
 }
+
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+h1 {
+  background-color: rgb(78, 206, 14);
+  color: hsl(0, 0%, 0%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #8d878d;
+}
