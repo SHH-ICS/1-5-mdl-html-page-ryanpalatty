@@ -6,12 +6,12 @@
 }
 
 body {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(232, 144, 144);
 }
 
 h1 {
-  background-color: rgb(78, 206, 14);
-  color: hsl(0, 0%, 0%);
+  background-color: rgb(76, 88, 70);
+  color: hsl(60, 48%, 87%);
   padding: 40px;
   text-align: center;
 }
